@@ -1,4 +1,4 @@
-package com.liqiqiang.note;
+package com.liqiqiang.note.entity;
 
 import org.springframework.data.annotation.Id;
 

@@ -1,6 +1,8 @@
-package com.liqiqiang.note;
+package com.liqiqiang.note.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
+
+import com.liqiqiang.note.entity.Greeting;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
